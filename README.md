@@ -1,5 +1,5 @@
 <div id="top_img" align="center">
-  <img src="https://github.com/VadimSMG/VadymSMG/blob/main/logo-ed.png" width="200em"/>
+  <img src="./logo-ed.png" width="200em"/>
   <h1>Hello, friend!</h1>
  </div>
 <div id="counter" align="center">
