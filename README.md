@@ -12,7 +12,8 @@
 </div>
 <div id="about">
   <h2>📋About Me :</h2>
-  I`m a DevOps 👨‍💻 from Ukraine 🇺🇦.
+  My name is Vadym Smoliaha &#128522; 
+  I`m a DevOps 👨‍💻 from Ukraine &#127482;&#127462;.
   <ul>
     <li>🚧 I`m working as a Freelancer and support fresh startup projects with my skills.</li>
     <li>🐧 Linux fun and administrator.</li>
